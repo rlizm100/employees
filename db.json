@@ -1,0 +1,12 @@
+[{
+    "firstName": "Jane",
+    "LastName": "Smith",
+    "Position": "Manager",
+    "email": "jane.smith@email.com"
+},
+{
+    "firstName": "Bob",
+    "LastName": "Bailey",
+    "Position": "Supervisor",
+    "email": "bob.bailey@email.com"
+}]
