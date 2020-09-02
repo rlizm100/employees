@@ -1,4 +1,5 @@
-[{
+{"employees": [
+{
     "firstName": "Jane",
     "LastName": "Smith",
     "Position": "Manager",
@@ -10,3 +11,4 @@
     "Position": "Supervisor",
     "email": "bob.bailey@email.com"
 }]
+}
